@@ -1,0 +1,52 @@
+
+    *{
+      background-color: white;
+      margin: 0;
+      padding: 0;
+    }
+
+    .logo{
+      margin: 10px;
+      justify-content: flex-start;
+      font- size : 30px;
+      
+    }
+    /* header{
+      background-color: bisque;
+      height: 100px;
+      color:white;
+      font-size: 30px;      
+      display: flex;
+      align-items: center;
+    } */
+
+    .nav-list {
+      height: 100px;
+      color:white;
+      font-size: 30px;      
+      display: flex;
+      align-items: center;
+
+      
+    }
+    /* section-a { 
+      height :100%
+      align-items: left;
+    } */
+     /* 우선순위가 아니기 때문에 적용되지 않음  */
+     .section01 {
+      height: 140px;
+      display : flex;
+      flex-direction: column;
+      align-items: left;
+      font-size: 20px;
+/* 하단으로 어떻게 가는지 */
+     }
+     main{
+      background-color: green;
+     }
+
+     footer{
+      background-color: gray;
+     }
+  
